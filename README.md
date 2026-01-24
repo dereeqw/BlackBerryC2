@@ -51,7 +51,7 @@ This binary was compiled using **Nuitka** and **PyInstaller** on a Raspberry Pi 
 - Client payload generator
 - IP blocking and access control
 - Persistent logging and audit support
-- Optional TLS proxy support
+- Optional HTTP(s)/TLS proxy support
 
 ---
 
