@@ -178,7 +178,7 @@ Unauthorized use against systems without permission is strictly prohibited.
 
 ## License
 
-See [LICENSE](LICENCE) file for full license details.
+See [LICENSE](LICENSE) file for full license details.
 
 ---
 
