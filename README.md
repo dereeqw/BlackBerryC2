@@ -31,10 +31,6 @@ The precompiled server binary was built specifically for:
 - **Architecture:** `aarch64` (ARM 64-bit)
 - **Operating System:** Linux (Debian-based)
 - **Kernel:** 6.12.62+ or compatible
-- **Architecture:** `x86_64` (AMD64)
-- **Operating System:** Linux (glibc-based distributions)
-- **Architecture:** `x86_64` (Windows)
- **Operating System:** Windows 10 / 11 (64-bit)
 
 The binaries were compiled using **Nuitka** and **PyInstaller**.
 The aarch64 binary was built on a Raspberry Pi system and functions only on compatible ARM64 Linux environments.
