@@ -35,7 +35,7 @@ The precompiled server binary was built specifically for:
 The binaries were compiled using **Nuitka** and **PyInstaller**.
 The aarch64 binary was built on a Raspberry Pi system and functions only on compatible ARM64 Linux environments.
 
-The x86_64 binary is distributed as a ZIP archive.
+The binaries for x86_64 and armv7l are distributed as a ZIP archive.
 
 ➡️ Download the appropriate binary from the official release page:
 https://github.com/dereeqw/BlackBerryC2/releases/tag/v1.7
