@@ -31,10 +31,18 @@ The precompiled server binary was built specifically for:
 - **Architecture:** `aarch64` (ARM 64-bit)
 - **Operating System:** Linux (Debian-based)
 - **Kernel:** 6.12.62+ or compatible
+- **Architecture:** `x86_64` (AMD64)
+- **Operating System:** Linux (Debian-based)
 
-This binary was compiled using **Nuitka** and **PyInstaller** on a Raspberry Pi system and will **only function on compatible ARM64 Linux systems**.
+The binaries were compiled using **Nuitka** and **PyInstaller**.
+The aarch64 binary was built on a Raspberry Pi system and functions only on compatible ARM64 Linux environments.
 
-**This binary is not available for other architectures** (x86_64, armv7l, etc.).
+The x86_64 binary is distributed as a ZIP archive.
+
+➡️ Download the appropriate binary from the official release page:
+https://github.com/dereeqw/BlackBerryC2/releases/tag/v1.7
+
+Unsupported architectures include: armv7l, i386, Windows, and macOS.
 
 ---
 
