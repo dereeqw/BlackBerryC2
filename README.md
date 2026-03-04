@@ -49,7 +49,7 @@ pip install cryptography prompt_toolkit zstandard
 - Client payload generator (`generate-payload`)
 - IP blocking: persistent blocklist + temporary auto-bans
 - Scan/flood detection: connect scan, banner grab, handshake failures, heartbeat flood
-- Optional HTTP(S)/TLS proxy support (`BlackBerryHTTPs_TLSProxyDaemon`)
+- Optional HTTP(S)/TLS proxy support (`BlackBerryHTTPs_TLSProxyGUI`)
 - SPA (Single Packet Authorization) and Port-Knocking pre-auth
 - **BerryTransfer mode** — dedicated file-transfer-only server (no shell)
 - Encrypted session log (AES-256-GCM + PBKDF2, 600k iterations)
