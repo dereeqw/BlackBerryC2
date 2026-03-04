@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 bb_profiles.py — BlackBerry C2 Malleable Traffic Profiles
-Coloca este archivo en el mismo directorio que el proxy y el cliente.
 """
 
 import json, os, re, copy, random, time, base64
