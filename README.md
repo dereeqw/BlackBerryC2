@@ -1,4 +1,4 @@
-# BlackBerryC2
+# BlackBerryC2 2.0.0-beta
 
 BlackBerryC2 is an **encrypted remote administration and C2 framework** designed **exclusively for educational use, security research, and controlled laboratory environments**.
 
@@ -19,10 +19,6 @@ BlackBerryC2:
 Use **only on systems and networks you own or have explicit authorization to test**.
 
 ---
-
-## System Requirements
-
-**Architecture Compatibility:** aarch64, x86_64, armv7l
 
 **Python dependencies:**
 ```
