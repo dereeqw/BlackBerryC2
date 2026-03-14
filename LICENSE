@@ -7,13 +7,12 @@ Permission is granted to use, modify, and share this software solely under the c
 
 ## 1. Permissions
 
-**Personal, Educational, or Internal Research Use**
-- This software may be used for learning, internal testing, personal research, or non-commercial projects.
-- The software may not be run on systems that you do not own without the express written authorization of the author.
+**Personal, Educational, or Research Use**
+- This software may be used for learning, personal research, internal testing, or non-commercial security projects.
+- This software may only be used against systems you own or have explicit written authorization to test.
 
-**Internal and Public Modifications (Forks)**
-- Modification of the software is permitted for personal use, internal research, or public non-commercial projects.
-- Forks and derivatives may be shared publicly, provided they:
+**Forks & Modifications**
+- Forks and modifications are permitted, provided they:
   - Retain this license in full, unmodified.
   - Clearly credit the original author (dereeqw ~ cacker420).
   - Are not used for commercial or profit-making purposes in any form.
@@ -24,10 +23,10 @@ Permission is granted to use, modify, and share this software solely under the c
 ## 2. Prohibitions
 
 The following are strictly prohibited:
+- Using this software against systems without explicit written authorization from their owner.
 - Selling, licensing, sublicensing, or commercializing this software or any derivative.
 - Using this software or any fork/derivative for commercial or profit-making purposes.
-- Running this software on systems you do not own without the author's explicit written authorization.
-- Creating services, servers, or applications accessible to third parties for commercial gain.
+- Creating services or applications accessible to third parties for commercial gain.
 - Distributing forks or derivatives under a different license or without this license attached.
 - Removing or altering attribution to the original author.
 
@@ -38,3 +37,6 @@ The following are strictly prohibited:
 This software is provided **"as is"**, without warranty of any kind, express or implied.
 The author shall not be liable for any damages, data loss, service interruptions,
 or any other issues arising from the use of this software or any derivative works.
+
+The user assumes full responsibility for ensuring their use of this software
+complies with all applicable local, national, and international laws.
