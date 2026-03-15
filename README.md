@@ -1,6 +1,7 @@
 # BlackBerryC2 2.0.0-beta
 
 BlackBerryC2 is an **encrypted remote administration and C2 framework** designed **exclusively for educational use, security research, and controlled laboratory environments**.
+![BlackBerryC2 Demo](BlackBerryC2v2.0.0-beta.gif)
 
 The project demonstrates how to build a **custom command-and-control server** with **application-layer cryptography**, session management, and secure client communication **without relying on external TLS stacks**.
 
